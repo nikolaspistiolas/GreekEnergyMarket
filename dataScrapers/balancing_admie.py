@@ -1,7 +1,7 @@
 import requests
 import requests
 import datetime
-
+import pandas as pd
 
 start = datetime.datetime(2021,8,15)
 for i in range(260):
@@ -18,4 +18,7 @@ for i in range(260):
 
     content = requests.get(url).content
     open(file_name,'wb').write(content)
-
+    try:
+        pd.read_excel(file_name)
+    except:
+        start
