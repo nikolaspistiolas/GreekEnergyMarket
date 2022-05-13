@@ -43,33 +43,56 @@ def is_dst_change(day: datetime.datetime, timezone):
     return tz.utcoffset(day + datetime.timedelta(days=1)) != tz.utcoffset(day)
 
 
-files = os.listdir('./unit_availabilities')
+files = os.listdir('./scada')
 
-files = sorted(files)[1:]
-
+files = sorted(files)
+# files = ['20211202_SystemRealizationSCADA_01.xls']
 gen_df = pd.DataFrame()
 data = []
 
 for f in files:
     try:
-        df = pd.read_excel(f'./unit_availabilities/{f}', skiprows=3, usecols=[2, 3])
+        df = pd.read_excel(f'./scada/{f}', skiprows=3, sheet_name='System_Production')
+        df = df.transpose()
+
+        df = df[df.columns.values[10:23]]
+
+        df.columns = df.iloc[1]
+        df = df.iloc[3:]
         date = f.split('_')[0]
         year = int(date[:4])
         month = int(date[4:6])
         day = int(date[6:])
         date = datetime.datetime(year,month,day)
-        diff = df[df.columns.values[0]].sum() - df[df.columns.values[1]].sum()
 
-        data.append([date,diff])
+
+        df.index = [date + datetime.timedelta(hours=x) for x in range(24)]
+
+
+        gen_df = gen_df.append(df)
     except:
-        print(f)
-        break
+        df = pd.read_excel(f'./scada/{f}', skiprows=3, sheet_name='System_Production')
+        df = df.transpose()
 
+        df = df[df.columns.values[15:28]]
 
-gen_df = pd.DataFrame.from_records(data)
-gen_df.columns = ['Date', 'Values']
-gen_df = gen_df.set_index('Date')
-gen_df.to_csv('unit_availabilities.csv')
+        df.columns = df.iloc[1]
+        df = df.iloc[3:]
+
+        date = f.split('_')[0]
+        year = int(date[:4])
+        month = int(date[4:6])
+        day = int(date[6:])
+        date = datetime.datetime(year, month, day)
+
+        df.index = [date + datetime.timedelta(hours=x) for x in range(24)]
+
+        gen_df = gen_df.append(df)
+#
+# gen_df = pd.DataFrame.from_records(data)
+# gen_df.columns = ['Date', 'Values']
+# gen_df = gen_df.set_index('Date')
+gen_df.to_csv('scada.csv')
 
 
 
