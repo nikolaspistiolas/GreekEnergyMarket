@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import datetime
 import pytz
+import warnings
 
 
 def get_dts(start_date, end_date, delta):
@@ -61,14 +62,15 @@ for f in files:
         diff = df[df.columns.values[0]].sum() - df[df.columns.values[1]].sum()
 
         data.append([date,diff])
+
     except:
+        print("F")
+
         break
 
 
 gen_df = pd.DataFrame.from_records(data)
 gen_df.columns = ['Date', 'Values']
 gen_df = gen_df.set_index('Date')
+print(gen_df)
 gen_df.to_csv('unit_availabilities.csv')
-
-
-

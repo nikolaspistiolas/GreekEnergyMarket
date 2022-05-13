@@ -5,7 +5,7 @@ import datetime
 # https://www.admie.gr/sites/default/files/attached-files/type-file/2022/05/20220510_ISP1UnitAvailabilities_02.xlsx
 
 start = datetime.datetime(2021,8,2)
-for i in range(260):
+for i in range(int(262/7)):
     day = str(start.day)
     if start.day < 10:
         day = '0' + day
@@ -19,6 +19,9 @@ for i in range(260):
     open(file_name, 'wb').write(content)
     try:
         pd.read_excel(file_name)
+
+        print("FFFFFFFFF")
+
     except:
         print('IN EXCEPT')
         start2 = start - datetime.timedelta(days=1)

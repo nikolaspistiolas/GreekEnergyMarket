@@ -1,0 +1,1793 @@
+<!DOCTYPE html>
+<html  lang="el" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<style>#block-cheeseburgermenu, #block-cheeseburgermenutrigger {--cheese-aside-bg-color: rgba( 255, 255, 255, 1);--cheese-aside-text-color: rgba( 54, 54, 54, 1);--cheese-main-bg-color: rgba( 255, 255, 255, 1);--cheese-main-text-color: rgba( 0, 0, 0, 1);--cheese-trigger-color: rgba( 54, 54, 54, 1);--cheese-trigger-bg-color: rgba( 255, 255, 255, 1);--cheese-scrollbar-color: rgba( 54, 54, 54, 1);}</style>
+<style>@media all and (min-width: 1201px) {#block-cheeseburgermenutrigger{ display:none; }}</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172015766-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-172015766-1", {"groups":"default","anonymize_ip":true,"page_path":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});</script>
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<link rel="canonical" href="http://www.admie.gr/" />
+<link rel="shortlink" href="http://www.admie.gr/" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "additionalType": "Organization",
+            "name": "ΑΔΜΗΕ",
+            "url": "www.admie.gr",
+            "telephone": "+30-2105192101",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.admie.gr/sites/default/files/logo_admie.png",
+                "width": "408",
+                "height": "66"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Δυρραχίου 89 \u0026 Κηφισού",
+                "addressLocality": "Αθήνα",
+                "addressRegion": "Αττική",
+                "postalCode": "10443",
+                "addressCountry": "Ελλάδα"
+            }
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/favicon_1.png" type="image/png" />
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="https://www.gstatic.com" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+<link rel="dns-prefetch" href="https://rum-static.pingdom.net" />
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" />
+<link rel="preconnect" href="https://www.gstatic.com/charts/loader.js" />
+<link rel="preconnect" href="https://www.google-analytics.com/analytics.js" />
+<link rel="preconnect" href="https://www.googletagmanager.com/gtag/js?id=UA-172015766-1" />
+<link rel="preconnect" href="https://www.gstatic.com/charts/49/css/core/tooltip.css" />
+<link rel="prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/loader.js" />
+<link rel="prefetch" href="https://www.google-analytics.com/analytics.js" />
+<link rel="prefetch" href="https://www.googletagmanager.com/gtag/js?id=UA-172015766-1" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/css/core/tooltip.css" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/css/util/util.css" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_default_module__el.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_graphics_module__el.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_ui_module__el.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_corechart_module__el.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_fw_module__el.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/third_party/dygraphs/dygraph-tickers-combined.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/third_party/webfontloader/webfont.js" />
+<link rel="prefetch" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_line_module__el.js" />
+<link rel="prerender" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" />
+<link rel="prerender" href="https://www.gstatic.com/charts/loader.js" />
+<link rel="prerender" href="https://www.google-analytics.com/analytics.js" />
+<link rel="prerender" href="https://www.googletagmanager.com/gtag/js?id=UA-172015766-1" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/css/core/tooltip.css" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/css/util/util.css" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_default_module__el.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_graphics_module__el.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_ui_module__el.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_corechart_module__el.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_fw_module__el.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/third_party/dygraphs/dygraph-tickers-combined.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/third_party/webfontloader/webfont.js" />
+<link rel="prerender" href="https://www.gstatic.com/charts/49/i18n/jsapi_compiled_i18n_line_module__el.js" />
+
+    <title>Η σελίδα δε βρέθηκε | ΑΔΜΗΕ</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" media="all" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_8q-69VjTTDITYsz94EbdQHrQS981CpasYRLSc9kImbg.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_DntfwczRQjfGUmmi0L4VUrU2TK_XTsm54qzyeXLw5q8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7ZkE4_n9sHlltFMBjb8JKSB2v3ZC31fZgXmFXElX15Q.css" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  </head>
+  <body class="page-node- path-sites has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Παράκαμψη προς το κυρίως περιεχόμενο
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <div id="submenu">
+        <div class="region region-above-header">
+    <section id="block-aboveheaderpresskit" class="block block-block-content block-block-content81109515-6df4-4892-a471-3be5b6a792cd clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><a href="/mobile-app" target="_blank"><img alt="ipto analytics" class="no-lazy" data-entity-type="file" data-entity-uuid="9b33ff97-a731-40ad-918c-1f774d912264" src="/sites/default/files/inline-images/ipto-analytics.png" width="496" height="68" loading="lazy" /></a><a href="http://www.ariadne-interconnection.gr/" target="_blank"><img alt="ariadne" class="no-lazy" data-entity-type="file" data-entity-uuid="265ea31e-11ca-48a0-ac97-61e12080aef6" src="/sites/default/files/inline-images/ariadne.png" width="75" height="20" loading="lazy" /></a><a href="https://www.grid-telecom.com/" target="_blank"><img alt="grid" class="no-lazy" data-entity-type="file" data-entity-uuid="483a4685-2fa6-4605-a25a-29341b03c136" src="/sites/default/files/inline-images/grid.png" width="63" height="29" loading="lazy" /></a><a href="/press-kit"><img alt="press kit" class="no-lazy" data-entity-type="file" data-entity-uuid="0320aed2-220d-4f5b-9fdf-d4094f472da9" src="/sites/default/files/inline-images/presskit.png" width="101" height="20" loading="lazy" /></a></p>
+</div></div>
+      
+  </section>
+
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-allagiglossas" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="el" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/&quot;}" data-drupal-link-system-path="system/404" class="el"><a href="/system/404?destination=/&amp;_exception_statuscode=404" class="language-link" hreflang="el" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/&quot;}" data-drupal-link-system-path="system/404">GR</a></li><li hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/&quot;}" data-drupal-link-system-path="system/404" class="en"><a href="/en/system/404?destination=/&amp;_exception_statuscode=404" class="language-link" hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/&quot;}" data-drupal-link-system-path="system/404">EN</a></li></ul>
+  </section>
+
+<section id="block-aboveheader" class="block block-block-content block-block-content4c5f84cd-9f96-4b40-ae66-b824ae81b7bd clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><a href="https://www.facebook.com/admieipto/?eid=ARD8qCW01bmwBPRaJF2g-fa-_sGKwzp7eTMA9i6BJRtHHgZnqYyYFSHgr8-PuE6Qhj-0EvlJ5mp2OzMz" target="_blank"><i class="sprite sprite-fbsmall"><!--<img alt="facebook" class="no-lazy" data-entity-type="file" data-entity-uuid="a2c907d8-fde1-4f06-8b74-b2e250ffc00a" src="/sites/default/files/inline-images/fbsmall.png" />--></i></a><a href="https://www.linkedin.com/company/ipto-admie" target="_blank"><i class="sprite sprite-ln_header"><!--<img alt="linkedin" class="no-lazy" data-entity-type="file" data-entity-uuid="6ef767a6-ed0b-498c-99d0-98272c8ebf85" src="/sites/default/files/inline-images/ln_header.png" />--></i></a><a href=" https://www.youtube.com/channel/UC21uH36pgqfCu3YrqRR434A" target="_blank"><i class="sprite sprite-yt_header"><!--<img alt="youtube" class="no-lazy" data-entity-type="file" data-entity-uuid="ca8c0429-f6c0-4a3b-816f-b97115272efd" src="/sites/default/files/inline-images/yt_header.png" />--></i></a></p>
+</div></div>
+      
+  </section>
+
+
+  </div>
+
+    </div>
+    <header class="navbar navbar-default" id="navbar" role="banner">
+              <div class="navbar-class">
+            <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/" title="Αρχική" rel="home">
+              <img src="/sites/default/files/logo_admie.png" alt="Αρχική" />
+          </a>
+      <section id="block-customsearch" class="block block-block-content block-block-content1136c771-f910-4e3d-a5c8-229edd27e912 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><i class="sprite sprite-active-search2"><!--<img alt="search" data-entity-type="file" data-entity-uuid="b9962b24-a8e7-4c59-8696-1f05c2e1a614" src="/sites/default/files/inline-images/active-search2.png" />--></i></p>
+</div></div>
+      
+  </section>
+
+<section id="block-mainnavigation-2" class="block block-we-megamenu block-we-megamenu-blockmain clearfix">
+  
+    
+
+      <div class="region-we-mega-menu">
+	<a class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="main navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="main" data-block-theme="admie" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="1" data-action="hover" data-mobile-collapse="1">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="/" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/" target="">
+      Αρχική    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu center" data-level="0" data-element-type="we-mega-menu-li" description="Εταιρεία" data-id="bdc8cefb-8e29-4159-9c8b-0216771ce1ec" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="center" data-target="">
+      <a class="we-mega-menu-li" title="Εταιρεία" href="/i-etaireia" target="">
+      Εταιρεία    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1430" data-class="" style="width: 1430px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6 col-md-6" data-element-type="we-mega-menu-col" data-width="6" data-block="menuperigrafiietaireia" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6">
+    <div class="type-of-block"><div class="block-inner"><section id="block-menuperigrafiietaireia" class="block block-block-content block-block-content6cb770cd-28d6-415c-8020-0dff32fe3a22 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><div class="col-md-6"><img alt="ΕΤΑΙΡΕΙΑ" data-entity-type="file" data-entity-uuid="fea40163-2b16-4dd5-bfd9-d236a4d1b11b" height="239" width="239" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/ipto_1_1.jpg" /></div>
+
+<div class="col-md-6">
+<h2><a href="/i-etaireia">Η εταιρεία</a></h2>
+
+<p>Ο Ανεξάρτητος Διαχειριστής Μεταφοράς Ηλεκτρικής Ενέργειας (ΑΔΜΗΕ) έχει ως σκοπό την αξιόπιστη, αποδοτική και πράσινη ηλεκτροδότηση της χώρας, προωθώντας την ανάπτυξη του ελεύθερου ανταγωνισμού στην ελληνική αγορά ηλεκτρικής ενέργειας.</p>
+</div>
+</div></div>
+      
+  </section>
+
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span6 col-md-6 company-menu visible-lg-inline-block" data-element-type="we-mega-menu-col" data-width="6" data-block="mainnavigation" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6 company-menu visible-lg-inline-block">
+    <div class="type-of-block"><div class="block-inner"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Menu: Η Εταιρεία</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/i-etaireia/me-mia-matia" title="Με μια ματιά" data-drupal-link-system-path="node/9137">Με μια ματιά</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/i-etaireia/omilos-admie" title="Όμιλος ΑΔΜΗΕ" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/3192">Όμιλος ΑΔΜΗΕ <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/omilos-admie/admie-ae" title="ΑΔΜΗΕ ΑΕ" data-drupal-link-system-path="node/83067">ΑΔΜΗΕ ΑΕ</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/omilos-admie/ariadni-interconnection" title="Αριάδνη Interconnection" data-drupal-link-system-path="node/3193">Αριάδνη Interconnection</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/omilos-admie/grid-telecom" title="Grid Telecom" data-drupal-link-system-path="node/3194">Grid Telecom</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/i-etaireia/metohoi" title="Μέτοχοι" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/83070">Μέτοχοι <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/metohoi/admie-symmetohon" data-drupal-link-system-path="node/9149">ΑΔΜΗΕ Συμμετοχών</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/metohoi/des-admie" title="ΔΕΣ ΑΔΜΗΕ" data-drupal-link-system-path="node/83073">ΔΕΣ ΑΔΜΗΕ</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/metohoi/state-grid" title="State Grid" data-drupal-link-system-path="node/3195">State Grid</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/i-etaireia/oikonomika-apotelesmata" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/87908">Οικονομικά Αποτελέσματα <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/oikonomika-apotelesmata/omilos-admhe" title="Όμιλος ΑΔΜΗΕ" data-drupal-link-system-path="i-etaireia/oikonomika-apotelesmata/omilos-admhe">Όμιλος ΑΔΜΗΕ</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/oikonomika-apotelesmata/thygatrikes-etaireies-omilou" title="Θυγατρικές Εταιρείες Ομίλου" data-drupal-link-system-path="i-etaireia/oikonomika-apotelesmata/thygatrikes-etaireies-omilou">Θυγατρικές Εταιρείες Ομίλου</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/i-etaireia/organosi" title="Οργάνωση" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9138">Οργάνωση <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/organosi/paroysiasi-genikon-dieythynseon" title="Γενικές Διευθύνσεις" data-drupal-link-system-path="i-etaireia/organosi/paroysiasi-genikon-dieythynseon">Γενικές Διευθύνσεις</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/organosi/dioikitiko-symboylio" title="Δ.Σ." data-drupal-link-system-path="i-etaireia/organosi/dioikitiko-symboylio">Δ.Σ.</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/organosi/organogramma" data-drupal-link-system-path="node/9150">Οργανόγραμμα</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/i-etaireia/symmetohes" title="Συμμετοχές" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/83076">Συμμετοχές <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/symmetohes/entso-e" title="Entso - E" data-drupal-link-system-path="node/83079">Entso - E</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/symmetohes/seecao" title="See cao" data-drupal-link-system-path="node/83082">See cao</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/symmetohes/selene-cc" title="Selene CC" data-drupal-link-system-path="node/83085">Selene CC</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/symmetohes/jao" title="Jao" data-drupal-link-system-path="node/83088">Jao</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown last">
+                                                                    <a href="/i-etaireia/biosimotita" title="Βιωσιμότητα" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/3198">Βιωσιμότητα <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/i-etaireia/biosimotita/koinonia" title="Κοινωνία" data-drupal-link-system-path="node/83094">Κοινωνία</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/biosimotita/perivallon" data-drupal-link-system-path="node/3196">Περιβάλλον</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/biosimotita/anthropoi" title="Άνθρωποι" data-drupal-link-system-path="node/87131">Άνθρωποι</a>
+              </li>
+                      <li>
+                                        <a href="/i-etaireia/biosimotita/draseis" title="Δράσεις" data-drupal-link-system-path="node/83091">Δράσεις</a>
+              </li>
+                      <li class="last">
+                                        <a href="/i-etaireia/biosimotita/ektheseis-biosimis-anaptuksis" title="Εκθέσεις Βιώσιμης Ανάπτυξης" data-drupal-link-system-path="i-etaireia/biosimotita/ektheseis-biosimis-anaptuksis">Εκθέσεις Βιώσιμης Ανάπτυξης</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+  </nav>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu center" data-level="0" data-element-type="we-mega-menu-li" description="Σύστημα" data-id="32b6a83f-2334-4d40-9e3b-67224f931f42" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="center" data-target="">
+      <a class="we-mega-menu-li" title="Σύστημα" href="/systima" target="">
+      Σύστημα    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1430" data-class="" style="width: 1430px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6 col-md-6" data-element-type="we-mega-menu-col" data-width="6" data-block="menuperigrafisystima" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6">
+    <div class="type-of-block"><div class="block-inner"><section id="block-menuperigrafisystima" class="block block-block-content block-block-content75db444f-27e9-4cf6-8aae-6d88395822d1 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><div class="col-md-6"><img alt="ΣΥΣΤΗΜΑ" data-entity-type="file" data-entity-uuid="590fea61-2f8a-4e69-bc15-69c01795a25a" height="227" width="227" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/sistima-small.jpg" /></div>
+
+<div class="col-md-6">
+<h2><a href="/systima">Σύστημα</a></h2>
+
+<p>Σκοπός του Συστήματος Μεταφοράς είναι η σύνδεση των Σταθμών Παραγωγής Ηλεκτρικής Ενέργειας και η ομαλή, ασφαλής και αδιάλειπτη μεταφορά ηλεκτρικής ενέργειας από τα σημεία παραγωγής στα σημεία κατανάλωσης.</p>
+</div>
+</div></div>
+      
+  </section>
+
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span6 col-md-6 company-menu visible-lg-inline-block" data-element-type="we-mega-menu-col" data-width="6" data-block="mainnavigation_3" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6 company-menu visible-lg-inline-block">
+    <div class="type-of-block"><div class="block-inner"><nav role="navigation" aria-labelledby="block-mainnavigation-3-menu" id="block-mainnavigation-3">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-3-menu">Menu: Σύστημα</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="expanded dropdown first">
+                                                                    <a href="/systima/perigrafi" title="Περιγραφή" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9139">Περιγραφή <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/systima/perigrafi/hartis-grammon" title="Χάρτης Γραμμών Μεταφοράς" data-drupal-link-system-path="systima/perigrafi/hartis-grammon">Χάρτης Γραμμών Μεταφοράς</a>
+              </li>
+                      <li class="last">
+                                        <a href="/systima/perigrafi/dedomena-diaheirisis-pagion" title="Δεδομένα Διαχείρισης Παγίων" data-drupal-link-system-path="node/9157">Δεδομένα Διαχείρισης Παγίων</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/systima/anaptyxi" title="Ανάπτυξη" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9140">Ανάπτυξη <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/systima/anaptyxi/dekaetes-programma-anaptyxis" title="Δεκαετές Πρόγραμμα Ανάπτυξης" data-drupal-link-system-path="node/76332">Δεκαετές Πρόγραμμα Ανάπτυξης</a>
+              </li>
+                      <li class="last">
+                                        <a href="/systima/anaptyxi/meletes" title="Μελέτες" data-drupal-link-system-path="node/76333">Μελέτες</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/systima/leitourgia" title="Λειτουργία" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9134">Λειτουργία <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/systima/leitourgia/perigrafi" title="Περιγραφή" data-drupal-link-system-path="node/76336">Περιγραφή</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/perifereiaki-sunergasia" data-drupal-link-system-path="node/125557">Περιφερειακή Συνεργασία</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/eleghos-systimatos" title="Έλεγχος Συστήματος" data-drupal-link-system-path="node/9158">Έλεγχος Συστήματος</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/programmatismenes-apomonoseis" title="Προγραμματισμένες Απομονώσεις" data-drupal-link-system-path="systima/leitourgia/programmatismenes-apomonoseis">Προγραμματισμένες Απομονώσεις</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/vraxiprothesmes-provlepseis-eparkeias" title="Βραχυπρόθεσμες Προβλέψεις Επάρκειας" data-drupal-link-system-path="systima/leitourgia/vraxiprothesmes-provlepseis-eparkeias">Βραχυπρόθεσμες Προβλέψεις Επάρκειας</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/simantika-peristatika" title="Σημαντικά περιστατικά" data-drupal-link-system-path="systima/leitourgia/simantika-peristatika">Σημαντικά περιστατικά</a>
+              </li>
+                      <li>
+                                        <a href="/systima/leitourgia/aitiologisi-leitourgias" title="Αιτιολόγηση Λειτουργίας" data-drupal-link-system-path="systima/leitourgia/aitiologisi-leitourgias">Αιτιολόγηση Λειτουργίας</a>
+              </li>
+                      <li class="last">
+                                        <a href="/systima/leitourgia/anafores-leitourgias-systimatos" title="Αναφορές Λειτουργίας Συστήματος" data-drupal-link-system-path="systima/leitourgia/anafores-leitourgias-systimatos">Αναφορές Λειτουργίας Συστήματος</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/systima/syndesi-hriston" title="Σύνδεση Χρηστών" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9142">Σύνδεση Χρηστών <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/systima/syndesi-hriston/genika" title="Γενικά" data-drupal-link-system-path="node/98050">Γενικά</a>
+              </li>
+                      <li>
+                                        <a href="/systima/syndesi-hriston/paragogoi-ape" title="ΠΑΡΑΓΩΓΟΙ ΑΠΕ &amp; ΣΗΘΥΑ" data-drupal-link-system-path="node/83100">ΠΑΡΑΓΩΓΟΙ ΑΠΕ &amp; ΣΗΘΥΑ</a>
+              </li>
+                      <li>
+                                        <a href="/systima/syndesi-hriston/loipes-katigories" data-drupal-link-system-path="node/83103">Λοιπές Κατηγορίες</a>
+              </li>
+                      <li class="last">
+                                        <a href="/systima/syndesi-hriston/europaikoi-kodikes-syndesis" title="Ευρωπαϊκοί Κώδικες Σύνδεσης" data-drupal-link-system-path="node/94117">Ευρωπαϊκοί Κώδικες Σύνδεσης</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown last">
+                                                                    <a href="/systima/diaheirisi-pagion" title="Διαχείριση Παγίων" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9143">Διαχείριση Παγίων <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/systima/diaheirisi-pagion/genika" title="Γενικά" data-drupal-link-system-path="node/9156">Γενικά</a>
+              </li>
+                      <li class="last">
+                                        <a href="/systima/diaheirisi-kai-apodosi/ektheseis-apodosis" title="Εκθέσεις Απόδοσης" data-drupal-link-system-path="systima/diaheirisi-kai-apodosi/ektheseis-apodosis">Εκθέσεις Απόδοσης</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+  </nav>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu center" data-level="0" data-element-type="we-mega-menu-li" description="Έργα" data-id="95d6d744-e0b8-454a-b242-14c5eb638cda" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="center" data-target="">
+      <a class="we-mega-menu-li" title="Έργα" href="/erga" target="">
+      Έργα    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1430" data-class="" style="width: 1430px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6 col-md-6" data-element-type="we-mega-menu-col" data-width="6" data-block="menuperigrafileitoyrgia" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6">
+    <div class="type-of-block"><div class="block-inner"><section id="block-menuperigrafileitoyrgia" class="block block-block-content block-block-content55bf73bf-62d5-4188-a720-ab71cd03f81c clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><div class="col-md-6"><img alt="ΕΡΓΑ" data-entity-type="file" data-entity-uuid="7551628f-b118-4249-8596-921c46c20458" height="226" width="226" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/ipto_3A_1.jpg" /></div>
+
+<div class="col-md-6">
+<h2><a href="/erga">Έργα</a></h2>
+
+<p>Ο ΑΔΜΗΕ διασυνδέει κάθε γωνιά της Ελλάδας, πιστός στο όραμά του για τον ενεργειακό μετασχηματισμό της χώρας.</p>
+</div>
+</div></div>
+      
+  </section>
+
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span6 col-md-6 company-menu visible-lg-inline-block" data-element-type="we-mega-menu-col" data-width="6" data-block="mainnavigation_4" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6 company-menu visible-lg-inline-block">
+    <div class="type-of-block"><div class="block-inner"><nav role="navigation" aria-labelledby="block-mainnavigation-4-menu" id="block-mainnavigation-4">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-4-menu">Menu: Έργα</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/erga/erga-diasyndeseis" title="Έργα/Διασυνδέσεις" data-drupal-link-system-path="erga/erga-diasyndeseis">Έργα/Διασυνδέσεις</a>
+              </li>
+                      <li>
+                                        <a href="/erga/hartis-ergon" title="Χάρτης Έργων" data-drupal-link-system-path="erga/hartis-ergon">Χάρτης Έργων</a>
+              </li>
+                      <li class="last">
+                                        <a href="/erga/syghrimatodotoymena-erga" data-drupal-link-system-path="erga/syghrimatodotoymena-erga">Συγχρηματοδοτούμενα έργα</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu center" data-level="0" data-element-type="we-mega-menu-li" description="Αγορά" data-id="5189f4c8-434d-43cd-a347-429d956a0661" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="center" data-target="">
+      <a class="we-mega-menu-li" title="Αγορά" href="/agora" target="">
+      Αγορά    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1430" data-class="" style="width: 1430px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6 col-md-6" data-element-type="we-mega-menu-col" data-width="6" data-block="menuperigrafiagora" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6">
+    <div class="type-of-block"><div class="block-inner"><section id="block-menuperigrafiagora" class="block block-block-content block-block-contentdaf1df50-1395-4571-8870-71072911a536 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><div class="col-md-6"><img alt="Αγορά" data-entity-type="file" data-entity-uuid="6bac6ed6-8b33-416b-aa47-df026ad39dfc" height="233" width="233" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/ipto_4_1.jpg" /></div>
+
+<div class="col-md-6">
+<h2><a href="/agora">Αγορά</a></h2>
+
+<p>Ο ΑΔΜΗΕ είναι ο βασικότερος φορέας της αγοράς ηλεκτρικής ενέργειας. Εκτός από κύριος και διαχειριστής του Συστήματος Μεταφοράς είναι υπεύθυνος για την διαχείριση των διασυνδέσεων και την οργάνωση και λειτουργία της αγοράς εξισορρόπησης.</p>
+</div>
+</div></div>
+      
+  </section>
+
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span6 col-md-6 company-menu visible-lg-inline-block" data-element-type="we-mega-menu-col" data-width="6" data-block="mainnavigation_5" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6 company-menu visible-lg-inline-block">
+    <div class="type-of-block"><div class="block-inner"><nav role="navigation" aria-labelledby="block-mainnavigation-5-menu" id="block-mainnavigation-5">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-5-menu">Menu: Αγορά</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="expanded dropdown first">
+                                                                    <a href="/agora/genika" title="Γενικά" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/83106">Γενικά <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/genika/perigrafi" data-drupal-link-system-path="node/83109">Περιγραφή</a>
+              </li>
+                      <li>
+                                        <a href="/agora/genika/symmetehontes" title="Συμμετέχοντες" data-drupal-link-system-path="node/83112">Συμμετέχοντες</a>
+              </li>
+                      <li>
+                                        <a href="/agora/genika/eksisorropisi-systimatos" title="Εξισορρόπηση Συστήματος" data-drupal-link-system-path="agora/genika/eksisorropisi-systimatos">Εξισορρόπηση Συστήματος</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/genika/ypologismos-kai-katanomi-dynamikotitas" title="Υπολογισμός και Κατανομή Δυναμικότητας" data-drupal-link-system-path="node/83115">Υπολογισμός και Κατανομή Δυναμικότητας</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/agora/mixanismoi-agoras" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/89800">Μηχανισμοί αγοράς <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/mixanismoi-agoras/upiresia-diakoptomenou-fortiou" data-drupal-link-system-path="node/89803">Υπηρεσία Διακοπτόμενου Φορτίου</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/mixanismoi-agoras/upiresia-paroxis-isxuos-eueliksias" data-drupal-link-system-path="node/89806">Υπηρεσία Παροχής Ισχύος Ευελιξίας</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/agora/symmetohi" title="Συμμετοχή" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9147">Συμμετοχή <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/symmetohi/diadikasia-eggrafis" title="Διαδικασία Εγγραφής" data-drupal-link-system-path="node/9163">Διαδικασία Εγγραφής</a>
+              </li>
+                      <li>
+                                        <a href="/agora/symmetohi/mitroa" title="Μητρώα" data-drupal-link-system-path="node/9164">Μητρώα</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/symmetohi/ekdosi-eic" title="Έκδοση EIC" data-drupal-link-system-path="node/9165">Έκδοση EIC</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/agora/rythmistiko-plaisio-agoras" title="Ρυθμιστικό Πλαίσιο" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9174">Ρυθμιστικό Πλαίσιο <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/rythmistiko-plaisio-agoras/kanonismos-agoras-eksisorropisis" title="Κανονισμός Αγοράς Εξισορρόπησης" data-drupal-link-system-path="node/87884">Κανονισμός Αγοράς Εξισορρόπησης</a>
+              </li>
+                      <li>
+                                        <a href="/agora/rythmistiko-plaisio-agoras/kodikas-diaxeirisis-esmie" title="Κώδικας Διαχείρισης ΕΣΜΗΕ" data-drupal-link-system-path="node/87896">Κώδικας Διαχείρισης ΕΣΜΗΕ</a>
+              </li>
+                      <li>
+                                        <a href="/agora/rythmistiko-plaisio-agoras/methodologies-kai-tehnikes-apofaseis" title="Μεθοδολογίες και Τεχνικές Αποφάσεις" data-drupal-link-system-path="node/83118">Μεθοδολογίες και Τεχνικές Αποφάσεις</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/rythmistiko-plaisio-agoras/eyropaiko-plaisio" title="Ευρωπαικό Πλαίσιο" data-drupal-link-system-path="agora/rythmistiko-plaisio-agoras/eyropaiko-plaisio">Ευρωπαικό Πλαίσιο</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/agora/statistika-agoras" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/83121">Στατιστικά Αγοράς <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/statistika-agoras/kyrioi-deiktes-dashboard" title="Κύριοι Δείκτες" data-drupal-link-system-path="agora/statistika-agoras/kyrioi-deiktes-dashboard">Κυριοι Δείκτες</a>
+              </li>
+                      <li>
+                                        <a href="/agora/statistika-agoras/dedomena" title="Δεδομένα" data-drupal-link-system-path="agora/statistika-agoras/dedomena">Δεδομένα</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/statistika-agoras/file-download-api" title="File Download API" data-drupal-link-system-path="node/99562">File Download API</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown last">
+                                                                    <a href="/agora/enimerotika-deltia" title="Ενημερωτικά Δελτία" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/9175">Ενημερωτικά Δελτία <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/agora/enimerotika-deltia/anafores-agoras-dikaiomaton-diasundeseon" title="Αναφορές Αγοράς Δικαιωμάτων Διασυνδέσεων" data-drupal-link-system-path="agora/enimerotika-deltia/anafores-agoras-dikaiomaton-diasundeseon">Αναφορές Αγοράς Δικαιωμάτων Διασυνδέσεων</a>
+              </li>
+                      <li>
+                                        <a href="/agora/enimerotika-deltia/ebdomadiaia-deltia-agoras-eksisorropisis" title="Εβδομαδιαία Δελτία Αγοράς Εξισορρόπησης" data-drupal-link-system-path="agora/enimerotika-deltia/ebdomadiaia-deltia-agoras-eksisorropisis">Εβδομαδιαία Δελτία Αγοράς Εξισορρόπησης</a>
+              </li>
+                      <li>
+                                        <a href="/agora/enimerotika-deltia/meridia-agoras-promitheuton-yt" title="Μερίδια Αγοράς Εκπροσώπων Φορτίου Πελατών Υ.Τ." data-drupal-link-system-path="agora/enimerotika-deltia/meridia-agoras-promitheuton-yt">Μερίδια Αγοράς Εκπροσώπων Φορτίου Πελατών Υ.Τ.</a>
+              </li>
+                      <li>
+                                        <a href="/agora/enimerotika-deltia/miniaia-deltia-energeias" title="Μηνιαία Δελτία Ενέργειας" data-drupal-link-system-path="agora/enimerotika-deltia/miniaia-deltia-energeias">Μηνιαία Δελτία Ενέργειας</a>
+              </li>
+                      <li class="last">
+                                        <a href="/agora/enimerotika-deltia/mesostathmiki-timi-agoras" title="Μεσοσταθμική Τιμή Αγοράς" data-drupal-link-system-path="agora/enimerotika-deltia/mesostathmiki-timi-agoras">Μεσοσταθμική Τιμή Αγοράς</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+  </nav>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu center" data-level="0" data-element-type="we-mega-menu-li" description="Νέα" data-id="9ea672dc-d9b8-4294-948e-c1d9843ef4d0" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="center" data-target="">
+      <a class="we-mega-menu-li" title="Νέα" href="/nea" target="">
+      Νέα    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1430" data-class="" style="width: 1430px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6 col-md-6" data-element-type="we-mega-menu-col" data-width="6" data-block="menuperigrafinea" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6">
+    <div class="type-of-block"><div class="block-inner"><section id="block-menuperigrafinea" class="block block-block-content block-block-content7241e3ce-78f5-49b6-9bc4-0da624793232 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><div class="col-md-6"><img alt="news" data-entity-type="file" data-entity-uuid="c6532a04-7b3d-41a6-9fc6-1d8c43504eb1" width="300" height="300" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/news_small_1.jpg" /></div>
+
+<div class="col-md-6">
+<h2><a href="/nea">Νέα</a></h2>
+
+<p>Διαβάστε τα Δελτία Τύπου, τις ανακοινώσεις και τα εταιρικά νέα του ΑΔΜΗΕ.</p>
+</div>
+</div></div>
+      
+  </section>
+
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span6 col-md-6 company-menu visible-lg-inline-block" data-element-type="we-mega-menu-col" data-width="6" data-block="mainnavigation_7" data-blocktitle="0" data-hidewhencollapse="" data-class="col-md-6 company-menu visible-lg-inline-block">
+    <div class="type-of-block"><div class="block-inner"><nav role="navigation" aria-labelledby="block-mainnavigation-7-menu" id="block-mainnavigation-7">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-7-menu">Menu: Νέα</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/nea/deltia-typoy" title="Δελτία Τύπου" data-drupal-link-system-path="nea/deltia-typoy">Δελτία Τύπου</a>
+              </li>
+                      <li>
+                                        <a href="/nea/anakoinoseis" title="Ανακοινώσεις" data-drupal-link-system-path="nea/anakoinoseis">Ανακοινώσεις</a>
+              </li>
+                      <li>
+                                        <a href="/nea/video" data-drupal-link-system-path="nea/video">Βίντεο</a>
+              </li>
+                      <li>
+                                        <a href="/nea/ekdiloseis" title="Εκδηλώσεις" data-drupal-link-system-path="nea/ekdiloseis">Εκδηλώσεις</a>
+              </li>
+                      <li>
+                                        <a href="/nea/periodiko-energon" title="Περιοδικό Ενεργών" data-drupal-link-system-path="nea/periodiko-energon">Περιοδικό Ενεργών</a>
+              </li>
+                      <li>
+                                        <a href="/nea/promitheies" title="Προμήθειες" data-drupal-link-system-path="nea/promitheies">Προμήθειες</a>
+              </li>
+                      <li>
+                                        <a href="/nea/diaboyleyseis" title="Διαβουλεύσεις" data-drupal-link-system-path="nea/diaboyleyseis">Διαβουλεύσεις</a>
+              </li>
+                      <li class="last">
+                                        <a href="/theseis-ergasias" data-drupal-link-system-path="theseis-ergasias">Ευκαιρίες Καριέρας</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+  </section>
+
+<section style="display: none;" class="block-cheeseburgermenu-container block-cheeseburgermenu-container--with-navigation block block-cheeseburger-menu clearfix" id="block-cheeseburgermenu">
+  
+    
+
+      	<div class="cheeseburger-menu__side-menu">
+		<div class="cheeseburger-menu__side-trigger" data-cheeseburger-close="true"><?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Bounding_Boxes">
+	<path fill="none" d="M0,0h24v24H0V0z"/>
+</g>
+<g id="Rounded">
+	<path d="M18.3,5.71L18.3,5.71c-0.39-0.39-1.02-0.39-1.41,0L12,10.59L7.11,5.7c-0.39-0.39-1.02-0.39-1.41,0l0,0
+		c-0.39,0.39-0.39,1.02,0,1.41L10.59,12L5.7,16.89c-0.39,0.39-0.39,1.02,0,1.41h0c0.39,0.39,1.02,0.39,1.41,0L12,13.41l4.89,4.89
+		c0.39,0.39,1.02,0.39,1.41,0l0,0c0.39-0.39,0.39-1.02,0-1.41L13.41,12l4.89-4.89C18.68,6.73,18.68,6.09,18.3,5.71z"/>
+</g>
+</svg>
+</div>
+
+		      						</div>
+
+<div class="cheeseburger-menu__main-navigation-area">
+				<div  data-cheeseburger-id="menu-main" >
+						<ul
+				class="cheeseburger-menu__mainmenu">
+															<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/">
+				<span>Αρχική</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Εταιρεία</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/me-mia-matia">
+				<span>Με μια ματιά</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Όμιλος ΑΔΜΗΕ</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/omilos-admie/admie-ae">
+				<span>ΑΔΜΗΕ ΑΕ</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/omilos-admie/ariadni-interconnection">
+				<span>Αριάδνη Interconnection</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/omilos-admie/grid-telecom">
+				<span>Grid Telecom</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Μέτοχοι</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/metohoi/admie-symmetohon">
+				<span>ΑΔΜΗΕ Συμμετοχών</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/metohoi/des-admie">
+				<span>ΔΕΣ ΑΔΜΗΕ</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/metohoi/state-grid">
+				<span>State Grid</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Οικονομικά Αποτελέσματα</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/oikonomika-apotelesmata/omilos-admhe">
+				<span>Όμιλος ΑΔΜΗΕ</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/oikonomika-apotelesmata/thygatrikes-etaireies-omilou">
+				<span>Θυγατρικές Εταιρείες Ομίλου</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Οργάνωση</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/organosi/paroysiasi-genikon-dieythynseon">
+				<span>Γενικές Διευθύνσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/organosi/dioikitiko-symboylio">
+				<span>Δ.Σ.</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/organosi/organogramma">
+				<span>Οργανόγραμμα</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Συμμετοχές</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/symmetohes/entso-e">
+				<span>Entso - E</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/symmetohes/seecao">
+				<span>See cao</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/symmetohes/selene-cc">
+				<span>Selene CC</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/symmetohes/jao">
+				<span>Jao</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Βιωσιμότητα</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/biosimotita/koinonia">
+				<span>Κοινωνία</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/biosimotita/perivallon">
+				<span>Περιβάλλον</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/biosimotita/anthropoi">
+				<span>Άνθρωποι</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/biosimotita/draseis">
+				<span>Δράσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/i-etaireia/biosimotita/ektheseis-biosimis-anaptuksis">
+				<span>Εκθέσεις Βιώσιμης Ανάπτυξης</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Σύστημα</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Περιγραφή</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/perigrafi/hartis-grammon">
+				<span>Χάρτης Γραμμών Μεταφοράς</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/perigrafi/dedomena-diaheirisis-pagion">
+				<span>Δεδομένα Διαχείρισης Παγίων</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Ανάπτυξη</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/anaptyxi/dekaetes-programma-anaptyxis">
+				<span>Δεκαετές Πρόγραμμα Ανάπτυξης</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/anaptyxi/meletes">
+				<span>Μελέτες</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Λειτουργία</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/perigrafi">
+				<span>Περιγραφή</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/perifereiaki-sunergasia">
+				<span>Περιφερειακή Συνεργασία</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/eleghos-systimatos">
+				<span>Έλεγχος Συστήματος</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/programmatismenes-apomonoseis">
+				<span>Προγραμματισμένες Απομονώσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/vraxiprothesmes-provlepseis-eparkeias">
+				<span>Βραχυπρόθεσμες Προβλέψεις Επάρκειας</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/simantika-peristatika">
+				<span>Σημαντικά περιστατικά</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/aitiologisi-leitourgias">
+				<span>Αιτιολόγηση Λειτουργίας</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/leitourgia/anafores-leitourgias-systimatos">
+				<span>Αναφορές Λειτουργίας Συστήματος</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Σύνδεση Χρηστών</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/syndesi-hriston/genika">
+				<span>Γενικά</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/syndesi-hriston/paragogoi-ape">
+				<span>ΠΑΡΑΓΩΓΟΙ ΑΠΕ &amp; ΣΗΘΥΑ</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/syndesi-hriston/loipes-katigories">
+				<span>Λοιπές Κατηγορίες</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/syndesi-hriston/europaikoi-kodikes-syndesis">
+				<span>Ευρωπαϊκοί Κώδικες Σύνδεσης</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Διαχείριση Παγίων</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/diaheirisi-pagion/genika">
+				<span>Γενικά</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/systima/diaheirisi-kai-apodosi/ektheseis-apodosis">
+				<span>Εκθέσεις Απόδοσης</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Έργα</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/erga/erga-diasyndeseis">
+				<span>Έργα/Διασυνδέσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/erga/hartis-ergon">
+				<span>Χάρτης Έργων</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/erga/syghrimatodotoymena-erga">
+				<span>Συγχρηματοδοτούμενα έργα</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Αγορά</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Γενικά</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/genika/perigrafi">
+				<span>Περιγραφή</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/genika/symmetehontes">
+				<span>Συμμετέχοντες</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/genika/eksisorropisi-systimatos">
+				<span>Εξισορρόπηση Συστήματος</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/genika/ypologismos-kai-katanomi-dynamikotitas">
+				<span>Υπολογισμός και Κατανομή Δυναμικότητας</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Μηχανισμοί αγοράς</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/mixanismoi-agoras/upiresia-diakoptomenou-fortiou">
+				<span>Υπηρεσία Διακοπτόμενου Φορτίου</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/mixanismoi-agoras/upiresia-paroxis-isxuos-eueliksias">
+				<span>Υπηρεσία Παροχής Ισχύος Ευελιξίας</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Συμμετοχή</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/symmetohi/diadikasia-eggrafis">
+				<span>Διαδικασία Εγγραφής</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/symmetohi/mitroa">
+				<span>Μητρώα</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/symmetohi/ekdosi-eic">
+				<span>Έκδοση EIC</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Ρυθμιστικό Πλαίσιο</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/rythmistiko-plaisio-agoras/kanonismos-agoras-eksisorropisis">
+				<span>Κανονισμός Αγοράς Εξισορρόπησης</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/rythmistiko-plaisio-agoras/kodikas-diaxeirisis-esmie">
+				<span>Κώδικας Διαχείρισης ΕΣΜΗΕ</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/rythmistiko-plaisio-agoras/methodologies-kai-tehnikes-apofaseis">
+				<span>Μεθοδολογίες και Τεχνικές Αποφάσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/rythmistiko-plaisio-agoras/eyropaiko-plaisio">
+				<span>Ευρωπαικό Πλαίσιο</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Στατιστικά Αγοράς</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/statistika-agoras/kyrioi-deiktes-dashboard">
+				<span>Κυριοι Δείκτες</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/statistika-agoras/dedomena">
+				<span>Δεδομένα</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/statistika-agoras/file-download-api">
+				<span>File Download API</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Ενημερωτικά Δελτία</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/enimerotika-deltia/anafores-agoras-dikaiomaton-diasundeseon">
+				<span>Αναφορές Αγοράς Δικαιωμάτων Διασυνδέσεων</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/enimerotika-deltia/ebdomadiaia-deltia-agoras-eksisorropisis">
+				<span>Εβδομαδιαία Δελτία Αγοράς Εξισορρόπησης</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/enimerotika-deltia/meridia-agoras-promitheuton-yt">
+				<span>Μερίδια Αγοράς Εκπροσώπων Φορτίου Πελατών Υ.Τ.</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/enimerotika-deltia/miniaia-deltia-energeias">
+				<span>Μηνιαία Δελτία Ενέργειας</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/agora/enimerotika-deltia/mesostathmiki-timi-agoras">
+				<span>Μεσοσταθμική Τιμή Αγοράς</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+							</ul>
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item cheeseburger-parent">
+									<span class="cheeseburger-menu__item-label" data-cheeseburger-parent-trigger>
+					<span>Νέα</span>
+				</span>
+					
+					<span class="cheeseburger-menu__submenu-trigger" data-cheeseburger-parent-trigger><div class="cheeseburger-menu__submenu-trigger-icon dropdown"></div></span>
+			<ul class="cheeseburger-menu__submenu">
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/deltia-typoy">
+				<span>Δελτία Τύπου</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/anakoinoseis">
+				<span>Ανακοινώσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/video">
+				<span>Βίντεο</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/ekdiloseis">
+				<span>Εκδηλώσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/periodiko-energon">
+				<span>Περιοδικό Ενεργών</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/promitheies">
+				<span>Προμήθειες</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/nea/diaboyleyseis">
+				<span>Διαβουλεύσεις</span>
+			</a>
+		
+			</li>
+
+											<li  class="menu-link cheeseburger-menu__item main__item">
+					<a class="cheeseburger-menu__item-label" href="/theseis-ergasias">
+				<span>Ευκαιρίες Καριέρας</span>
+			</a>
+		
+			</li>
+
+							</ul>
+			</li>
+
+							</ul>
+		</div>
+	</div>
+
+
+  </section>
+
+<section id="block-cheeseburgermenutrigger" class="block block-cheeseburger-menu block-cheeseburger-menu-trigger clearfix">
+  
+    
+
+      <div class="block-cheeseburgermenu__trigger-element" data-cheeseburger-id="block-cheeseburgermenu">
+    <span></span>
+    <span></span>
+    <span></span>
+</div>
+
+  </section>
+
+
+  </div>
+
+                      </div>
+
+                          </div>
+      
+      <div class="search-area">
+        <div class="search-block container">
+          <div class="search-widget">  <div class="region region-search-block">
+    <section class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksolr-search-global-page-1 clearfix" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-solr-search-global-page-1" id="block-exposedformsolr-search-globalpage-1">
+  
+    
+
+      <form action="/search" method="get" id="views-exposed-form-solr-search-global-page-1" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-search-api-autocomplete js-form-type-search-api-autocomplete form-item-search-api-fulltext js-form-item-search-api-fulltext form-group form-autocomplete">
+      
+  
+  
+  <div class="input-group"><input placeholder="Αναζήτηση" data-bef-auto-submit-exclude="" data-drupal-selector="edit-search-api-fulltext" class="form-autocomplete form-text form-control" data-search-api-autocomplete-search="solr_search_global" data-autocomplete-path="/search_api_autocomplete/solr_search_global?display=page_1&amp;&amp;filter=search_api_fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-since js-form-item-since form-group">
+      <label for="edit-since" class="control-label">Συντάχθηκε στις</label>
+  
+  
+  <input placeholder="Από" data-bef-auto-submit-exclude="" data-drupal-selector="edit-since" class="form-text form-control" type="text" id="edit-since" name="since" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-until js-form-item-until form-group">
+      <label for="edit-until" class="control-label">Συντάχθηκε στις</label>
+  
+  
+  <input placeholder="Εώς" data-bef-auto-submit-exclude="" data-drupal-selector="edit-until" class="form-text form-control" type="text" id="edit-until" name="until" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<fieldset data-drupal-selector="edit-type" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper" id="edit-type--wrapper">
+      <legend>
+    <span class="fieldset-legend">Εμφάνιση μόνο</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-type" class="form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-type-1 js-form-item-type-1 checkbox">
+  
+  
+  
+
+      <label for="edit-type-1" class="control-label option"><input data-drupal-selector="edit-type-1" class="form-checkbox" type="checkbox" id="edit-type-1" name="type[1]" value="1" />Αρχεία</label>
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-type-2 js-form-item-type-2 checkbox">
+  
+  
+  
+
+      <label for="edit-type-2" class="control-label option"><input data-drupal-selector="edit-type-2" class="form-checkbox" type="checkbox" id="edit-type-2" name="type[2]" value="2" />Κύριες Σελίδες</label>
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-type-3 js-form-item-type-3 checkbox">
+  
+  
+  
+
+      <label for="edit-type-3" class="control-label option"><input data-drupal-selector="edit-type-3" class="form-checkbox" type="checkbox" id="edit-type-3" name="type[3]" value="3" />Νέα/Ανακοινώσεις</label>
+  
+  
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-select js-form-type-select form-item-sort-by js-form-item-sort-by form-group">
+      <label for="edit-sort-by" class="control-label">Sort by</label>
+  
+  
+  <div data-drupal-selector="edit-sort-by" class="form-select bef-links" id="edit-sort-by" name="sort_by">
+                    <ul><li><a href="/search?destination=/&amp;_exception_statuscode=404" id="edit-sort-by-created" name="sort_by[created]" class="bef-link bef-link--selected">Ταξινόμηση αποτελεσμάτων</a></li></ul>      </div>
+
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-select js-form-type-select form-item-sort-order js-form-item-sort-order form-group">
+      <label for="edit-sort-order" class="control-label">Σειρά</label>
+  
+  
+  <div data-drupal-selector="edit-sort-order" class="form-select bef-links" id="edit-sort-order" name="sort_order">
+                    <ul><li><a href="/search?destination=/&amp;_exception_statuscode=404&amp;sort_order=ASC" id="edit-sort-order-asc" name="sort_order[ASC]" class="bef-link">Παλαιότερα</a>                      <li><a href="/search?destination=/&amp;_exception_statuscode=404" id="edit-sort-order-desc" name="sort_order[DESC]" class="bef-link bef-link--selected">Νεότερα</a></li></ul>      </div>
+
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-bef-auto-submit-click="" data-drupal-selector="edit-submit-solr-search-global" class="button js-form-submit form-submit btn-info btn" type="submit" id="edit-submit-solr-search-global" value="Apply" name="">Apply</button></div>
+
+</div>
+
+</form>
+
+  </section>
+
+
+  </div>
+</div>
+        </div>
+      </div>
+    
+    </header>
+  
+
+<div id="content-header">     
+  <div class="" role="heading">
+    <div id="content_submenu">
+          <div class="region region-content-submenu">
+        <ol class="breadcrumb">
+          <li >
+                  <a href="/">Αρχική</a>
+              </li>
+          <li  class="active">
+                  Η σελίδα δε βρέθηκε
+              </li>
+      </ol>
+
+
+  </div>
+
+    </div>
+     
+  </div>   
+</div>
+
+
+  <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12" role="heading">
+              <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                                      <div class="highlighted">  <div class="region region-highlighted">
+        <h1 class="page-header">Η σελίδα δε βρέθηκε</h1>
+
+
+  </div>
+</div>
+                  
+                                      
+                  
+                
+
+                          <a id="main-content"></a>
+            <div class="region region-content">
+      Η σελίδα που ζητήσατε δεν μπόρεσε να βρεθεί.
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+
+
+
+
+<div id="footer_menu">
+  <div class="container">
+    <div class="col-md-9">
+        <div class="region region-footer-menu">
+    <nav role="navigation" aria-labelledby="block-footerleft-menu" id="block-footerleft">
+            
+  <h2 class="visually-hidden" id="block-footerleft-menu">Footer left</h2>
+  
+
+        
+      <ul class="menu menu--footer-left nav">
+                      <li class="first">
+                                        <a href="/erga/syghrimatodotoymena-erga" title="Συγχρηματοδοτούμενα Έργα" data-drupal-link-system-path="erga/syghrimatodotoymena-erga">Συγχρηματοδοτούμενα Έργα</a>
+              </li>
+                      <li>
+                                        <a href="/agora/statistika-agoras/kyrioi-deiktes-dashboard" title="Κύριοι Δείκτες Αγοράς" data-drupal-link-system-path="agora/statistika-agoras/kyrioi-deiktes-dashboard">Κύριοι Δείκτες Αγοράς</a>
+              </li>
+                      <li>
+                                        <a href="/agora/statistika-agoras/dedomena" title="Δεδομένα Αγοράς &amp; Λειτουργίας" data-drupal-link-system-path="agora/statistika-agoras/dedomena">Δεδομένα Αγοράς &amp; Λειτουργίας</a>
+              </li>
+                      <li>
+                                        <a href="/theseis-ergasias" title="Ευκαιρίες Καριέρας" data-drupal-link-system-path="theseis-ergasias">Ευκαιρίες Καριέρας</a>
+              </li>
+                      <li>
+                                        <a href="/grafeio-typoy/press-kit" data-drupal-link-system-path="grafeio-typoy/press-kit">Γραφείο Τύπου</a>
+              </li>
+                      <li class="last">
+                                        <a href="/epikoinoniste-mazi-mas" title="Επικοινωνήστε μαζί μας" data-drupal-link-system-path="node/108472">Επικοινωνήστε μαζί μας</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+    </div>
+    <div class="col-md-3">
+        <div class="region region-footer-info">
+    <section id="block-infoandsocial" class="block block-block-content block-block-content7b35e110-e083-405f-9800-946ce283de4b clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><i class="sprite sprite-location_f"><!--<img alt="location" data-align="left" data-entity-type="file" data-entity-uuid="f0e34f71-b7ea-4833-b0ac-aebd0abc802a" src="/sites/default/files/inline-images/location_f.png" />--></i>Δυρραχίου 89 &amp; Κηφισού, 104 43 Αθήνα</p>
+
+<p><i class="sprite sprite-phone_f"><!--<img alt="phone" data-align="left" data-entity-type="file" data-entity-uuid="cb4c3288-4a37-435c-8206-122b241d10df" src="/sites/default/files/inline-images/phone_f.png" />--></i>+30-210-5192101</p>
+
+<p><i class="sprite sprite-mail_f"><!--<img alt="email" data-align="left" data-entity-type="file" data-entity-uuid="11a50252-f915-427a-8eaa-c4e145fc4ece" src="/sites/default/files/inline-images/mail_f.png" />--></i><a href="mailto:info@admie.gr">info@admie.gr</a></p>
+
+<div class="header-icons">
+<p><a href="/mobile-app" target="_blank"><img alt="ipto analytics" data-entity-type="file" data-entity-uuid="440114a0-328c-4208-8bc3-fc35c53ae324" width="496" height="68" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/ipto-analytics_0.png" /></a></p>
+
+<p><a href="http://www.ariadne-interconnection.gr/" target="_blank"><img alt="ariadne" data-entity-type="file" data-entity-uuid="cf26ae95-cdd5-4c3a-8ad3-dd8720dcc464" width="150" height="40" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/ariadnebig_0.png" /></a></p>
+
+<p><a href="https://www.grid-telecom.com/" target="_blank"><img alt="grid" data-entity-type="file" data-entity-uuid="691eda7f-74cc-49b6-b70e-4c3a08db833e" width="126" height="58" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/gridbig_0.png" /></a></p>
+</div>
+
+<div class="social">
+<h3>Ακολουθήστε μας</h3>
+
+<p><a class="sprite sprite-fb" href="https://www.facebook.com/admieipto/?eid=ARD8qCW01bmwBPRaJF2g-fa-_sGKwzp7eTMA9i6BJRtHHgZnqYyYFSHgr8-PuE6Qhj-0EvlJ5mp2OzMz " target="_blank"><!--<img alt="Facebook" data-entity-type="file" data-entity-uuid="47fea92d-ca65-49bf-bab7-954232ffaaa7" src="/sites/default/files/inline-images/fb_0.png" />--></a><a class="sprite sprite-linkedin" href="https://www.linkedin.com/company/ipto-admie" target="_blank"><!--<img alt="linkedin" data-entity-type="file" data-entity-uuid="c7fc0266-d406-4d97-9476-0bae53f304d2" src="/sites/default/files/inline-images/linkedin.png" />--></a><a class="sprite sprite-yt" href=" https://www.youtube.com/channel/UC21uH36pgqfCu3YrqRR434A" target="_blank"><!--<img alt="youtube" data-entity-type="file" data-entity-uuid="03fa091d-3f49-45ed-b865-29478ae1a513" src="/sites/default/files/inline-images/yt.png" />--></a></p>
+</div>
+
+<div class="mobileapp">
+<h3>Κατεβάστε το Ipto Analytics App</h3>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.ipto.analytics" target="_blank"><img alt="google play" data-entity-type="file" data-entity-uuid="be26268b-229a-49c4-b4f6-991550409e6a" width="132" height="40" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/google-play-x40.png" /></a><a href="https://apps.apple.com/gr/app/ipto-analytics/id1553494141?l=el" target="_blank"><img alt="app store" data-entity-type="file" data-entity-uuid="1ea37517-69b3-4301-ba1f-bbdd3f427f2e" width="120" height="40" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/app-store-x40.png" /></a></p>
+</div>
+</div></div>
+      
+  </section>
+
+
+  </div>
+
+    </div>
+
+    
+  </div>
+</div>
+
+      <footer class="footer" role="contentinfo">
+        <div class="region region-footer">
+    <section id="block-logo" class="block block-block-content block-block-content4347c242-b870-48a1-b497-b3c922c12c48 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><a href="/"><img alt="logo" data-entity-type="file" data-entity-uuid="379a7d94-b88d-473b-8e8f-cebf4cf2714b" width="159" height="44" loading="lazy" class="lazyload" data-src="/sites/default/files/inline-images/logo_footer.png" /></a></p>
+
+<p>Copyright © 2019 ΑΔΜΗΕ</p>
+</div></div>
+      
+  </section>
+
+<section id="block-politikikaioroihrisis" class="block block-block-content block-block-contente96cf573-d025-4120-9bf2-8b7c35703555 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="tex2jax_process"><p><a href="/politiki-cookies">Πολιτική Cookies</a> | <a href="/oroi-hrisis">Όροι Χρήσης</a> | <a href="/sitemap">Χάρτης Ιστοτόπου</a></p>
+</div></div>
+      
+  </section>
+
+
+  </div>
+
+    </footer>
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"el"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/tooltips,asset_injector\/js\/cookies,asset_injector\/js\/filters_data_subview,asset_injector\/js\/since_until_filters,better_exposed_filters\/auto_submit,better_exposed_filters\/general,bootstrap\/popover,bootstrap\/tooltip,cheeseburger_menu\/cheeseburger_menu.css,cheeseburger_menu\/cheeseburger_menu.js,core\/drupal.autocomplete,eu_cookie_compliance\/eu_cookie_compliance_default,google_analytics\/google_analytics,lazy\/lazy,mathjax\/config,mathjax\/setup,mathjax\/source,search_api_autocomplete\/search_api_autocomplete,system\/base,we_megamenu\/form.we-mega-menu-frontend,webform_bootstrap\/webform_bootstrap","theme":"admie","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"google_analytics":{"account":{},"trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":false,"ricTimeout":0,"throttleDelay":125,"plugins":{"unveilhooks":"unveilhooks\/ls.unveilhooks"}},"placeholderSrc":"","preferNative":false,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cdiv class=\u0022tex2jax_process\u0022\u003E\u003Cdiv class=\u0022eu-cookie-compliance-message\u0022 id=\u0022popup-text\u0022\u003E\u003Ch2\u003E\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03b2\u03ad\u03bb\u03c4\u03b9\u03c3\u03c4\u03b7 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2\u003C\/h2\u003E\u003Cp\u003E\u039c\u03b5 \u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf site \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae \u03c4\u03c9\u03bd cookies.\u003C\/p\u003E\u003C\/div\u003E\u003Cp\u003E\u00a0\u003C\/p\u003E\u003C\/div\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n        \u003Cdiv class=\u0022cookie-header\u0022\u003E\n          \u003Cdiv class=\u0022close-btn\u0022\u003EX\u003C\/div\u003E\n          \u003Ch4\u003E\u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 cookies\u003C\/h4\u003E\n          \u003Cp\u003E\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b7\u03bd online \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03c3\u03b1\u03c2, \u03bd\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c8\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c3\u03c4\u03bf\u03bd \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1\u03ba\u03cc \u03c4\u03cc\u03c0\u03bf \u03bc\u03b1\u03c2 \u03ba.\u03bb\u03c0. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b1\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b1 cookies (\u03bc\u03b5 \u03b5\u03be\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03cc\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1). \u039a\u03b1\u03b8\u03b9\u03c3\u03c4\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf cookie \u03b5\u03bd\u03b5\u03c1\u03b3\u03cc \u03b4\u03af\u03bd\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03b3\u03ba\u03b1\u03c4\u03ac\u03b8\u03b5\u03c3\u03ae \u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03c5\u03c4\u03bf\u03cd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03c1\u03bf\u03b2\u03bb\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c3\u03c4\u03b7\u03bd \u003Ca target=\u0022_blank\u0022 href=\u0022\/politiki-cookies\u0022\u003E\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 Cookies.\u003C\/a\u003E\u003C\/p\u003E\n        \u003C\/div\u003E\n        \u003Cdiv class=\u0022cookie-body\u0022\u003E\n                      \u003Cdiv class=\u0022eu-category-parent\u0022\u003E\n                               \n                            \u003Cdiv class=\u0022eu-category-top\u0022\u003E\u003Ch4\u003E\u03a4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03c2 \u0391\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1\u003C\/h4\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-ypohreotika\u0022 value=\u0022ypohreotika\u0022 \n                 checked  \n                 disabled  \u003E\n              \u003C\/div\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category eu-category-bottom\u0022\u003E\n                \u003Cdiv\u003E\n                  \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-ypohreotika\u0022\n                    value=\u0022ypohreotika\u0022\n                     checked                      disabled  \u003E\n                  \u003Clabel for=\u0022cookie-category-ypohreotika\u0022\u003E\u03a5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ac\u003C\/label\u003E\n                                  \u003Cdiv class=\u0022cookies-popup\u0022\u003E\u003Cimg src=\u0022\/themes\/custom\/admie\/images\/help-cookies.png\u0022\u003E\u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003E\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bf\u03c1\u03b8\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5, \u03c3\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03bf\u03c5\u03bd \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c3\u03c6\u03b1\u03bb\u03b5\u03af\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2. \u0391\u03c5\u03c4\u03ac \u03c4\u03b1 cookies \u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b1\u03c4\u03bf\u03bc\u03b9\u03ba\u03ae \u03c3\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1. \u03a7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 cookies, \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ce\u03c2 \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1. \u039f \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c5\u03c3\u03b7 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03ae \u03b7 \u03b1\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03c3\u03b5 \u03ae\u03b4\u03b7 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b2\u03af\u03b2\u03b1\u03c3\u03b7\u03c2 \u00b5\u03af\u03b1\u03c2 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u00b5\u03ad\u03c3\u03c9 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd \u03ae, \u03b2\u03b1\u03b8\u03bc\u03cc \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2, \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c1\u03b7\u03c4\u03ac \u03bf \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7\u03c2 \u03ae \u03bf \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03ae\u03c2. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ae \u03bd\u03bf\u03bc\u03bf\u03b8\u03b5\u03c3\u03af\u03b1, \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03c4\u03b5 \u03b1\u03bd \u03b8\u03b1 \u03b1\u03c0\u03bf\u03c1\u03c1\u03af\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03b4\u03b5\u03bd \u03b8\u03b1 \u03ae\u03c4\u03b1\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03b5\u03c6\u03b9\u03ba\u03c4\u03ae \u03b7 \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03b5\u03ba \u03bc\u03ad\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b1\u03c2.\u003C\/div\u003E\n                                \u003C\/div\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-category-parent\u0022\u003E\n                               \n                            \u003Cdiv class=\u0022eu-category-top\u0022\u003E\u003Ch4\u003ECookies \u0395\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd\u003C\/h4\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-google_analytics\u0022 value=\u0022google_analytics\u0022 \n                 checked  \n                 \u003E\n              \u003C\/div\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category eu-category-bottom\u0022\u003E\n                \u003Cdiv\u003E\n                  \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-google_analytics\u0022\n                    value=\u0022google_analytics\u0022\n                     checked                      \u003E\n                  \u003Clabel for=\u0022cookie-category-google_analytics\u0022\u003EGoogle Analytics\u003C\/label\u003E\n                                  \u003Cdiv class=\u0022cookies-popup\u0022\u003E\u003Cimg src=\u0022\/themes\/custom\/admie\/images\/help-cookies.png\u0022\u003E\u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003E\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf site \u03bc\u03b1\u03c2 \u03cc\u03c0\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1, \u03bf\u03b9 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b5\u03c3\u03c4\u03b5 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03c1\u03bf\u03ae\u03bb\u03b8\u03b5 \u03b7 \u03b5\u03c0\u03af\u03c3\u03ba\u03b5\u03c8\u03ae \u03c3\u03b1\u03c2, \u03bf \u03c4\u03cd\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b7\u03b3\u03b7\u03c4\u03ae (browser) \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2. \u03a4\u03b1 cookies \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2, \u03b1\u03bd\u03ce\u03bd\u03c5\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c3\u03b5 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b7. \u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c8\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd, \u03b5\u03bd\u03ce \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03c4\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bf\u03c1\u03b3\u03b1\u03bd\u03c9\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b1\u03c2, \u03c0.\u03c7. \u03b1\u03bd\u03c9\u03bd\u03c5\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2 IP\u003C\/div\u003E\n                                \u003C\/div\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n        \u003Cdiv class=\u0022cookie-footer\u0022\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n              \u003Cbutton type=\u0022button\u0022\n                      class=\u0022eu-cookie-compliance-save-preferences-button\u0022\u003E\u0391\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03cd\u03c3\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b1\u03c2\u003C\/button\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n      \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-default-button only-strict\u0022\u003E\u0391\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-default-button more\u0022\u003E\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003E\u0391\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae \u03cc\u03bb\u03c9\u03bd\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003EWithdraw consent\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cdiv class=\u0022tex2jax_process\u0022\u003E\u003C\/div\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n        \u003Cdiv class=\u0022cookie-header\u0022\u003E\n          \u003Cdiv class=\u0022close-btn\u0022\u003EX\u003C\/div\u003E\n          \u003Ch4\u003E\u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 cookies\u003C\/h4\u003E\n          \u003Cp\u003E\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b7\u03bd online \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03c3\u03b1\u03c2, \u03bd\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c8\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c3\u03c4\u03bf\u03bd \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1\u03ba\u03cc \u03c4\u03cc\u03c0\u03bf \u03bc\u03b1\u03c2 \u03ba.\u03bb\u03c0. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b1\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b1 cookies (\u03bc\u03b5 \u03b5\u03be\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03cc\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1). \u039a\u03b1\u03b8\u03b9\u03c3\u03c4\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf cookie \u03b5\u03bd\u03b5\u03c1\u03b3\u03cc \u03b4\u03af\u03bd\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03b3\u03ba\u03b1\u03c4\u03ac\u03b8\u03b5\u03c3\u03ae \u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03c5\u03c4\u03bf\u03cd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03c1\u03bf\u03b2\u03bb\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c3\u03c4\u03b7\u03bd \u003Ca target=\u0022_blank\u0022 href=\u0022\/politiki-cookies\u0022\u003E\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 Cookies.\u003C\/a\u003E\u003C\/p\u003E\n        \u003C\/div\u003E\n        \u003Cdiv class=\u0022cookie-body\u0022\u003E\n                      \u003Cdiv class=\u0022eu-category-parent\u0022\u003E\n                               \n                            \u003Cdiv class=\u0022eu-category-top\u0022\u003E\u003Ch4\u003E\u03a4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03c2 \u0391\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1\u003C\/h4\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-ypohreotika\u0022 value=\u0022ypohreotika\u0022 \n                 checked  \n                 disabled  \u003E\n              \u003C\/div\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category eu-category-bottom\u0022\u003E\n                \u003Cdiv\u003E\n                  \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-ypohreotika\u0022\n                    value=\u0022ypohreotika\u0022\n                     checked                      disabled  \u003E\n                  \u003Clabel for=\u0022cookie-category-ypohreotika\u0022\u003E\u03a5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ac\u003C\/label\u003E\n                                  \u003Cdiv class=\u0022cookies-popup\u0022\u003E\u003Cimg src=\u0022\/themes\/custom\/admie\/images\/help-cookies.png\u0022\u003E\u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003E\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bf\u03c1\u03b8\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5, \u03c3\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03bf\u03c5\u03bd \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c3\u03c6\u03b1\u03bb\u03b5\u03af\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2. \u0391\u03c5\u03c4\u03ac \u03c4\u03b1 cookies \u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b1\u03c4\u03bf\u03bc\u03b9\u03ba\u03ae \u03c3\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1. \u03a7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 cookies, \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ce\u03c2 \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1. \u039f \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c5\u03c3\u03b7 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03ae \u03b7 \u03b1\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03c3\u03b5 \u03ae\u03b4\u03b7 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b2\u03af\u03b2\u03b1\u03c3\u03b7\u03c2 \u00b5\u03af\u03b1\u03c2 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u00b5\u03ad\u03c3\u03c9 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd \u03ae, \u03b2\u03b1\u03b8\u03bc\u03cc \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2, \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c1\u03b7\u03c4\u03ac \u03bf \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7\u03c2 \u03ae \u03bf \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03ae\u03c2. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ae \u03bd\u03bf\u03bc\u03bf\u03b8\u03b5\u03c3\u03af\u03b1, \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03c4\u03b5 \u03b1\u03bd \u03b8\u03b1 \u03b1\u03c0\u03bf\u03c1\u03c1\u03af\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03b4\u03b5\u03bd \u03b8\u03b1 \u03ae\u03c4\u03b1\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03b5\u03c6\u03b9\u03ba\u03c4\u03ae \u03b7 \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03b5\u03ba \u03bc\u03ad\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b1\u03c2.\u003C\/div\u003E\n                                \u003C\/div\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-category-parent\u0022\u003E\n                               \n                            \u003Cdiv class=\u0022eu-category-top\u0022\u003E\u003Ch4\u003ECookies \u0395\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd\u003C\/h4\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-google_analytics\u0022 value=\u0022google_analytics\u0022 \n                 checked  \n                 \u003E\n              \u003C\/div\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category eu-category-bottom\u0022\u003E\n                \u003Cdiv\u003E\n                  \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-google_analytics\u0022\n                    value=\u0022google_analytics\u0022\n                     checked                      \u003E\n                  \u003Clabel for=\u0022cookie-category-google_analytics\u0022\u003EGoogle Analytics\u003C\/label\u003E\n                                  \u003Cdiv class=\u0022cookies-popup\u0022\u003E\u003Cimg src=\u0022\/themes\/custom\/admie\/images\/help-cookies.png\u0022\u003E\u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003E\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf site \u03bc\u03b1\u03c2 \u03cc\u03c0\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1, \u03bf\u03b9 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b5\u03c3\u03c4\u03b5 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03c1\u03bf\u03ae\u03bb\u03b8\u03b5 \u03b7 \u03b5\u03c0\u03af\u03c3\u03ba\u03b5\u03c8\u03ae \u03c3\u03b1\u03c2, \u03bf \u03c4\u03cd\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b7\u03b3\u03b7\u03c4\u03ae (browser) \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2. \u03a4\u03b1 cookies \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2, \u03b1\u03bd\u03ce\u03bd\u03c5\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c3\u03b5 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b7. \u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c8\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd, \u03b5\u03bd\u03ce \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03c4\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bf\u03c1\u03b3\u03b1\u03bd\u03c9\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b1\u03c2, \u03c0.\u03c7. \u03b1\u03bd\u03c9\u03bd\u03c5\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2 IP\u003C\/div\u003E\n                                \u003C\/div\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n        \u003Cdiv class=\u0022cookie-footer\u0022\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n              \u003Cbutton type=\u0022button\u0022\n                      class=\u0022eu-cookie-compliance-save-preferences-button\u0022\u003E\u0391\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03cd\u03c3\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b1\u03c2\u003C\/button\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n      \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-default-button only-strict\u0022\u003E\u0391\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-default-button more\u0022\u003E\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003E\u0391\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae \u03cc\u03bb\u03c9\u03bd\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003EWithdraw consent\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/politiki-cookies","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"el","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cdiv class=\u0022tex2jax_process\u0022\u003E\u003Cdiv class=\u0022eu-cookie-compliance-message\u0022 id=\u0022popup-text\u0022\u003E\u003Ch2\u003E\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03b2\u03ad\u03bb\u03c4\u03b9\u03c3\u03c4\u03b7 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2\u003C\/h2\u003E\u003Cp\u003E\u039c\u03b5 \u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf site \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae \u03c4\u03c9\u03bd cookies.\u003C\/p\u003E\u003C\/div\u003E\u003Cp\u003E\u00a0\u003C\/p\u003E\u003C\/div\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["ypohreotika","google_analytics"],"cookie_categories_details":{"ypohreotika":{"uuid":"1ee01923-d6ce-483b-8f74-45c1e07fdf21","langcode":"el","status":true,"dependencies":[],"id":"ypohreotika","label":"\u03a5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ac","description":"\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bf\u03c1\u03b8\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5, \u03c3\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03bf\u03c5\u03bd \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c3\u03c6\u03b1\u03bb\u03b5\u03af\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2. \u0391\u03c5\u03c4\u03ac \u03c4\u03b1 cookies \u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b1\u03c4\u03bf\u03bc\u03b9\u03ba\u03ae \u03c3\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1. \u03a7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 cookies, \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ce\u03c2 \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1. \u039f \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c5\u03c3\u03b7 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03ae \u03b7 \u03b1\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03c3\u03b5 \u03ae\u03b4\u03b7 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b2\u03af\u03b2\u03b1\u03c3\u03b7\u03c2 \u00b5\u03af\u03b1\u03c2 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u00b5\u03ad\u03c3\u03c9 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd \u03ae, \u03b2\u03b1\u03b8\u03bc\u03cc \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2, \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c1\u03b7\u03c4\u03ac \u03bf \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7\u03c2 \u03ae \u03bf \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03ae\u03c2. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ae \u03bd\u03bf\u03bc\u03bf\u03b8\u03b5\u03c3\u03af\u03b1, \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03c4\u03b5 \u03b1\u03bd \u03b8\u03b1 \u03b1\u03c0\u03bf\u03c1\u03c1\u03af\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd cookies \u03b1\u03c5\u03c4\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b1\u03c5\u03c4\u03ac \u03b4\u03b5\u03bd \u03b8\u03b1 \u03ae\u03c4\u03b1\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03b5\u03c6\u03b9\u03ba\u03c4\u03ae \u03b7 \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03b5\u03ba \u03bc\u03ad\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b1\u03c2.","checkbox_default_state":"required","weight":-9},"google_analytics":{"uuid":"fa6f8f4d-398c-46ec-baea-9aaed12ad0c4","langcode":"el","status":true,"dependencies":[],"id":"google_analytics","label":"Google Analytics","description":"\u03a4\u03b1 cookies \u03b1\u03c5\u03c4\u03ac \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf site \u03bc\u03b1\u03c2 \u03cc\u03c0\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1, \u03bf\u03b9 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b5\u03c3\u03c4\u03b5 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03c1\u03bf\u03ae\u03bb\u03b8\u03b5 \u03b7 \u03b5\u03c0\u03af\u03c3\u03ba\u03b5\u03c8\u03ae \u03c3\u03b1\u03c2, \u03bf \u03c4\u03cd\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b7\u03b3\u03b7\u03c4\u03ae (browser) \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2. \u03a4\u03b1 cookies \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2, \u03b1\u03bd\u03ce\u03bd\u03c5\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c3\u03b5 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b7. \u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5 cookies \u03bc\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c8\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd, \u03b5\u03bd\u03ce \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03c4\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bf\u03c1\u03b3\u03b1\u03bd\u03c9\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b1\u03c2, \u03c0.\u03c7. \u03b1\u03bd\u03c9\u03bd\u03c5\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2 IP","checkbox_default_state":"checked","weight":-8}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"open_by_default":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"mathjax":{"config_type":0,"config":{"tex2jax":{"inlineMath":[["$","$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"user":{"uid":0,"permissionsHash":"7a40b4d37ebe714ac73bc5f5c527a73dd7e928ebb0b9a9699fdfc10606898189"}}</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/sites/default/files/js/js_ir4OyEv9il3lEwR1oJlhpLIqqT4jqXtvNQW7Odi7-X4.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/sites/default/files/js/js_bGlJGOQzz0cLIsYoMiPBbSM-53OHPLNxMbHhqXGdvvQ.js"></script>
+<script src="/sites/default/files/js/js_EJXixBHiG_EZ-_V2eR0iAe1B5PZBiKcJEqjhALZGBXQ.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/sites/default/files/js/js_ybyWQ-mc4zD-q8AhPdhKoohmWHZEb7ynud_8iO1Y3F4.js"></script>
+
+              <script src="//rum-static.pingdom.net/pa-5f0f3760146aea0015000629.js" async></script>
+      </body>
+</html>
