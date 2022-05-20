@@ -64,8 +64,12 @@ for f in files:
         data.append([date,diff])
 
     except:
+<<<<<<< HEAD
         print("F")
 
+=======
+        print(f)
+>>>>>>> c0d0f1ddbc9bb259911536966e005bc6af7c21f7
         break
 
 
